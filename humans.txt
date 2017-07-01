@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+	Joakim Lindblad 	joakim@jlc.se
+	
 # THANKS
 
     <name>
