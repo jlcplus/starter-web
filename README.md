@@ -13,4 +13,4 @@ Please fork
 
 ### Copyright
 
-bla bla
+det är jag som har copywright!
